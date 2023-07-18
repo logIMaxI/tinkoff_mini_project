@@ -1,6 +1,6 @@
 # Tinkoff mini project: Exploring conversions change of interested site's visitors
 
-https://github.com/f_kyoub_h/tinkoff_mini_project/raw/main/tinkoff_mini_project/tinkoff_label.png
+https://github.com/f_kyoub_h/tinkoff_mini_project/main/tinkoff_mini_project/tinkoff_label.png
 
 This project is created according to task of Tinkoff's course "Data Analysis in the Industry".
 
